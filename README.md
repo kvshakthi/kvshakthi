@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am Shakthidhar K.V.
 
-A passionate and detail-oriented Bioinformatics professional with strong expertise in computational biology, data analysis, and bioinformatics tools. Experienced in working with large datasets, performing advanced statistical analyses, and developing predictive models. Skilled in Python, R, Linux, and data visualization tools. Proven ability to collaborate in diverse teams and apply machine learning algorithms to real-world biological data. Actively contributing to open-source projects in bioinformatics and data science.
+A passionate and detail-oriented Bioinformatics professional with strong expertise in computational biology, data analysis, and bioinformatics tools. Experienced in working with large datasets, performing advanced statistical analyses, and developing predictive models. Proven ability to collaborate in diverse teams and apply machine learning algorithms to real-world biological data. Actively contributing to open-source projects in bioinformatics and data science.
 
 ## 🧑‍💻 Work Experience
 
@@ -18,7 +18,6 @@ A passionate and detail-oriented Bioinformatics professional with strong experti
 
 **Master of Science in Bioinformatics**  
 *JSS Academy of Higher Education and Research, Mysuru, Karnataka*  
- 
 CGPA: 8.0
 
 **Bachelor of Science in Chemistry, Botany, and Zoology**  
