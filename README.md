@@ -6,13 +6,11 @@ A passionate and detail-oriented Bioinformatics professional with strong experti
 ## 🧑‍💻 Work Experience
 
 ### Pharmacovigilance Intern  
-*Edutech Life (affiliated with IIT Kharagpur)*  
-*Apr 2022 - Jun 2022*  
+*Edutech Life (affiliated with IIT Kharagpur)*    
 - Conducted comprehensive analysis on adverse drug reactions across 9 countries, improving drug safety measures.  
 - Utilized bioinformatics tools like Linux, R, and Microsoft Office Suite for data processing and analysis.
 
 ### Research Intern - CHiP-sequence Data Analysis  
-*Feb 2023 - Jul 2023*  
 - Performed CHiP-sequence analysis using K562 cell lines and human genome reference (hg19).  
 - Investigated STAT1 protein's interaction with the interferon pathway at various time points.  
 - Applied advanced statistical techniques to analyze chip regions, chromosomal distributions, and promoter regions, contributing to the understanding of cellular signaling in immune responses.
