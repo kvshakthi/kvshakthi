@@ -46,7 +46,7 @@ CGPA: 8.0
 
 - **Programming Languages:** Python, R, C, SQL  
 - **Tools & Libraries:** Pandas, Numpy, Scikit-learn, Matplotlib, ggplot2, Seaborn  
-- **Platforms & Technologies:** Linux (Bash), AWS, Git (VCS), Jupyter Notebook, Docker  
+- **Platforms & Technologies:** Linux (Bash), AWS basics, Git (VCS), Jupyter Notebook, Docker  
 - **Bioinformatics Tools:** HOMER, IGB, MACS2, CEAS, AlphaFold, Phyre2, ClustalW  
 - **Machine Learning:** Random Forest, Decision Trees, Logistic Regression
 
