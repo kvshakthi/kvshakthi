@@ -19,6 +19,7 @@ A passionate and detail-oriented Bioinformatics professional with strong experti
 **Master of Science in Bioinformatics**  
 *JSS Academy of Higher Education and Research, Mysuru, Karnataka*  
 
+
 ## 📚 Academic Projects
 
 ## ✒️Cross-Talk between PTK2/FAK and Menopausal Status in Breast Cancer  
