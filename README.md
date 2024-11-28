@@ -18,10 +18,6 @@ A passionate and detail-oriented Bioinformatics professional with strong experti
 
 **Master of Science in Bioinformatics**  
 *JSS Academy of Higher Education and Research, Mysuru, Karnataka*  
-CGPA: 8.0
-
-**Bachelor of Science in Chemistry, Botany, and Zoology**  
-*St Joseph’s University, Bengaluru, Karnataka*  
 
 ## 📚 Academic Projects
 
