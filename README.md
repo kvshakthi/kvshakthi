@@ -1,10 +1,5 @@
 ## Hi there 👋
-
-<!--# Shakthidhar K.V
-
-[LinkedIn](https://www.linkedin.com/in/kvshakthidhar) | [GitHub](https://github.com/kvshakthidhar) | +91 9113846174 | kvshakthidhar@gmail.com
-
-## 💼 Summary
+I am Shakthidhar K.V
 A passionate and detail-oriented Bioinformatics professional with strong expertise in computational biology, data analysis, and bioinformatics tools. Experienced in working with large datasets, performing advanced statistical analyses, and developing predictive models. Skilled in Python, R, Linux, and data visualization tools. Proven ability to collaborate in diverse teams and apply machine learning algorithms to real-world biological data. Actively contributing to open-source projects in bioinformatics and data science.
 
 ## 🧑‍💻 Work Experience
