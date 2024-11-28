@@ -23,7 +23,7 @@ A passionate and detail-oriented Bioinformatics professional with strong experti
 ## 📚 Academic Projects
 
 ## ✒️Cross-Talk between PTK2/FAK and Menopausal Status in Breast Cancer  
-*Technologies: R, RStudio, Jupyter Notebook*  
+*Technologies: R, RStudio, Python*  
 - Analyzed PTK2 gene expression in relation to menopausal status and its effect on breast cancer progression.  
 - Created compelling visualizations using ggplot2 and analyzed statistical significance (p < 0.05) in cancer subtypes.
 
