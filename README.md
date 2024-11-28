@@ -11,8 +11,7 @@ A passionate and detail-oriented Bioinformatics professional with strong experti
 - Utilized bioinformatics tools like Linux, R, and Microsoft Office Suite for data processing and analysis.
 
 ### Research Intern - CHiP-sequence Data Analysis  
-- Performed CHiP-sequence analysis using K562 cell lines and human genome reference (hg19).  
-- Investigated STAT1 protein's interaction with the interferon pathway at various time points.  
+- Performed CHiP-sequence analysis using K562 cell lines and human genome reference (hg19).   
 - Applied advanced statistical techniques to analyze chip regions, chromosomal distributions, and promoter regions, contributing to the understanding of cellular signaling in immune responses.
 
 ## 🎓 Education
@@ -49,12 +48,6 @@ CGPA: 8.0
 - **Platforms & Technologies:** Linux (Bash), AWS basics, Git (VCS), Jupyter Notebook, Docker  
 - **Bioinformatics Tools:** HOMER, IGB, MACS2, CEAS, AlphaFold, Phyre2, ClustalW  
 - **Machine Learning:** Random Forest, Decision Trees, Logistic Regression
-
-## 🌱 Open-Source Contributions
-
-- Contributed to the development of a Python-based tool for genomic data analysis, available on [GitHub Repository](https://github.com/kvshakthidhar/genomic-analysis-tool).
-- Submitted pull requests for bug fixes and feature enhancements to [bioinformatics-tools repository](https://github.com/opensource-bio/bioinformatics-tools).
-- Actively participate in community discussions and provide solutions for bioinformatics-related challenges.
 
 ## 📜 Courses & Certifications
 
