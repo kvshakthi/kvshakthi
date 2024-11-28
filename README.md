@@ -39,7 +39,7 @@ CGPA: 8.0
 - Conducted molecular docking simulations and structural analyses of Sxl2 protein to understand its biological functionality.  
 - Developed insights into protein folding and ligand interaction through computational approaches.
 
-##✒️ Titanic Survival Prediction using Machine Learning  
+## ✒️ Titanic Survival Prediction using Machine Learning  
 *Technologies: Python, scikit-learn, Random Forest, Decision Trees*  
 - Built a machine learning model to predict passenger survival based on demographic features.  
 - Applied Random Forest and Decision Tree algorithms for classification, achieving high predictive accuracy.
