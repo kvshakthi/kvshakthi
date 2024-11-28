@@ -59,8 +59,7 @@ A passionate and detail-oriented Bioinformatics professional with strong experti
 
 ## 📞 Contact Information
 
-- **Email:** kvshakthidhar@gmail.com  
-- **Phone:** +91 9113846174  
+- **Email:** kvshakthidhar@gmail.com   
 - **LinkedIn:** [linkedin.com/in/kvshakthidhar](https://www.linkedin.com/in/kvshakthidhar)  
 - **GitHub:** [github.com/kvshakthidhar](https://github.com/kvshakthidhar)
 
